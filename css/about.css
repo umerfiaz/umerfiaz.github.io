@@ -1,0 +1,31 @@
+
+body{
+    background-color: lightblue;
+    padding: 50px 0 0 0;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #512DAB;
+}
+.nav-item{
+    margin-right: 40px;
+}
+table{
+    width: 100%;
+    height: 300px;
+}
+.tbody-dark{
+    background-color: lightskyblue;
+}
+.body-dark{
+    background-color: lightseagreen;
+}
+table th,td{
+    text-align: center;
+}
+@media (min-width:768px){
+#feda{
+    position: absolute;
+    right: 100px;
+}
+}
